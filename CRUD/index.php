@@ -1,0 +1,1 @@
+<?php header("Location: http://localhost/PHP/View/Login.php"); ?>
